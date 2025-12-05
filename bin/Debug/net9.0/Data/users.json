@@ -1,0 +1,10 @@
+{
+  "Users": [
+    {
+      "Id": 1,
+      "Name": "string",
+      "Age": 3232
+    }
+  ],
+  "NextId": 2
+}
